@@ -100,5 +100,3 @@ https://jsonplaceholder.typicode.com/users
 
 - 💼 LinkedIn: [SK Suryaa](https://www.linkedin.com/in/sk-suryaa-97ba70340/)
 
-
-🆓 This project is open-source and free to use.
